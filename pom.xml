@@ -980,11 +980,11 @@
 	<!-- -->
 	<!-- =========================================================================================== -->
 	<scm>
-		<connection>scm:git:https://github.com/sigmah-dev/sigmah.git</connection>
-		<developerConnection>scm:git:git@github.com:sigmah-dev/sigmah.git</developerConnection>
-		<url>https://github.com/sigmah-dev/sigmah</url>
-	  <tag>HEAD</tag>
-  </scm>
+		<connection>scm:git:https://github.com/numero-six/sigmah.git</connection>
+		<developerConnection>scm:git:git@github.com:numero-six/sigmah.git</developerConnection>
+		<url>https://github.com/numero-six/sigmah</url>
+		<tag>HEAD</tag>
+	</scm>
 
 	<profiles>
 		
